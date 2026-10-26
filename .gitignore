@@ -1,0 +1,17 @@
+# build output
+build/
+cmake-build-*/
+*.o
+*.exe
+*.out
+
+# generated files
+*.enc
+*.dec
+*.tmp
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
